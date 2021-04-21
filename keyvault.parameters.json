@@ -1,0 +1,9 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "objectId":{
+      "value":"0733ee5d-4bf8-4ece-b98b-93e60f08f8a8"
+    }
+  }
+}
