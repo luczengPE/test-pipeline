@@ -1,0 +1,11 @@
+--- 
+name: test-pipeline
+trigger:
+  branches:
+    include:
+    - master
+variables:
+
+stages:
+  - stage: deployKV
+  displayName: 'Deploy Key Vault'
